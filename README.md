@@ -59,7 +59,7 @@ For an NLP course project, our team explored whether we could build a functionin
 
 While I contributed minimally to the implementation itself, I played a significant role in project direction, including selecting the problem, dataset, and modeling approach. I also served as the primary presenter for the project.
 
-### [Transformer Boolean Representation Analysis](https://github.com/mart-mihkel/transformer-bool-rep)
+### [Transformer Boolean Representation Analysis](https://github.com/mart-mihkel/transformer-bool-repr)
 
 A collaborative project investigating whether transformer-based language models can abstract Boolean equations through the lens of Information Bottleneck Theory.
 
